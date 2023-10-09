@@ -1,0 +1,23 @@
+{
+    "name": "Sergio Henrique",
+    "email": "eusergio@gmail.com",
+    "cpf": "02366644125",
+    "creditCard": {
+        "number": "1234555566669999",
+        "securityNumber": "159"
+    },
+    "products": [
+        {
+            "name": "Amor Liquido 2",
+            "value": "50"
+        }
+    ],
+    "address": {
+        "zipCode": "39802441",
+        "street": "Rua Henrique Furtado",
+        "number": "202",
+        "neighborhood": "Buritis",
+        "city": "Belo Horizonte",
+        "state": "Minas Gerais"
+    }
+}
